@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2012" month="5" date="5" day="6"/>
+    <time hour="19" minute="54" second="57" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="5"/>
+    <league global-id="21" name="Major League Soccer" alias="MLS" display-name=""/>
+    <season year="2012" id="1" description="2012 MLS Season"/>
+    <soccer-ifb-boxscores>
+      <ifb-boxscore>
+         <date year="2012" month="5" date="5" day="6"/>
+         <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2012" month="5" date="5" day="6"/>
+         <local-time hour="16" minute="00"/>
+         <gamecode global-code="1175633" code="2012050535"/>
+         <coverage level="4"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="1" description="Regular Season" replay="false"/>
+         <week week="9"/>
+         <gamestate status-id="3" status="Half-Over" period="1" minutes="45" seconds="0" additional-minutes="0"/>
+         <stadium global-id="4424" id="55" name="BC Place Stadium"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="5363" id="11" location="San Jose" name="Earthquakes" alias="SJ" display-name="San Jose"/>
+            <team primary-color="000000" shorts-color="000000"/>
+           <record wins="7" ties="1" losses="1" pct=".815"/>
+            <linescore score="1" shots="5">
+               <half half="1" score="1" shots="5"/>
+            </linescore>
+            <formation formation="4-4-2"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="23753" id="35" location="Vancouver" name="Whitecaps FC" alias="Van" display-name="Vancouver"/>
+            <team primary-color="FFFFFF" shorts-color="FFFFFF"/>
+           <record wins="4" ties="2" losses="2" pct=".583"/>
+            <linescore score="1" shots="5">
+               <half half="1" score="1" shots="5"/>
+            </linescore>
+            <formation formation="4-3-3"/>
+         </home-team>
+         <players team="visitors">
+           <player>
+             <name first-name="Jon" last-name="Busch" shirt-name="" full-first="Jon" full-last="Busch"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="274242" id="93"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Steven" last-name="Beitashour" shirt-name="" full-first="Steven" full-last="Beitashour"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="33"/>
+             <player-code global-id="537093" id="2151"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ramiro" last-name="Corrales" shirt-name="" full-first="Ramiro" full-last="Corrales"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="12"/>
+             <player-code global-id="274228" id="79"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Jason" last-name="Hernandez" shirt-name="" full-first="Jason" full-last="Hernandez"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="21"/>
+             <player-code global-id="322547" id="1207"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Justin" last-name="Morrow" shirt-name="" full-first="Justin" full-last="Morrow"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="15"/>
+             <player-code global-id="537092" id="2150"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Simon" last-name="Dawkins" shirt-name="" full-first="Simon" full-last="Dawkins"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="467691" id="107765"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Rafael" last-name="Baca" shirt-name="" full-first="Rafael" full-last="Baca"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="30"/>
+             <player-code global-id="601534" id="107799"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Marvin" last-name="Chávez" shirt-name="" full-first="Marvin" full-last="Chavez"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="81"/>
+             <player-code global-id="500102" id="2081"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="1"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Sam" last-name="Cronin" shirt-name="" full-first="Sam" full-last="Cronin"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="4"/>
+             <player-code global-id="490203" id="1919"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Steven" last-name="Lenhart" shirt-name="" full-first="Steven" full-last="Lenhart"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="24"/>
+             <player-code global-id="439578" id="1750"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="2"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Chris" last-name="Wondolowski" shirt-name="" full-first="Chris" full-last="Wondolowski"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="322579" id="1239"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <players team="home">
+           <player>
+             <name first-name="Joe" last-name="Cannon" shirt-name="" full-first="Joseph" full-last="Cannon"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="274567" id="419"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Martín" last-name="Bonjour" shirt-name="" full-first="Fernando Martin" full-last="Bonjour"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="15"/>
+             <player-code global-id="373781" id="116328"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Young-Pyo" last-name="Lee" shirt-name="" full-first="Young-Pyo" full-last="Lee"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="12"/>
+             <player-code global-id="346012" id="116304"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Alain" last-name="Rochat" shirt-name="" full-first="Alain" full-last="Rochat"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="4"/>
+             <player-code global-id="347768" id="103516"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Jay" last-name="DeMerit" shirt-name="" full-first="Jay" full-last="DeMerit"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="6"/>
+             <player-code global-id="346269" id="103392"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Jun Marques" last-name="Davidson" shirt-name="" full-first="Jun Marques" full-last="Davidson"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="27"/>
+             <player-code global-id="394994" id="116455"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Gershon" last-name="Koffie" shirt-name="" full-first="Gershon" full-last="Koffie"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="28"/>
+             <player-code global-id="587653" id="107716"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Matt" last-name="Watson" shirt-name="" full-first="Matthew" full-last="Watson"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="16"/>
+             <player-code global-id="637266" id="116313"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Omar" last-name="Salgado" shirt-name="" full-first="Omar" full-last="Salgado"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="17"/>
+             <player-code global-id="585641" id="103407"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Sébastien" last-name="Le Toux" shirt-name="" full-first="Sebastien" full-last="Le Toux"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="375422" id="1913"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="2"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Camilo" shirt-name="" full-first="Camilo" full-last="da Silva Sanvezzo"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="37"/>
+             <player-code global-id="592150" id="107762"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="1"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="4"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <bench team="visitors">
+           <player>
+             <name first-name="Khari" last-name="Stephenson" shirt-name="" full-first="Khari" full-last="Stephenson"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="275233" id="1085"/>
+           </player>
+           <player>
+             <name first-name="Tressor" last-name="Moreno" shirt-name="" full-first="Malher Tressor" full-last="Moreno Baldrich"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="369634" id="116468"/>
+           </player>
+           <player>
+             <name first-name="Sercan" last-name="Guvenisik" shirt-name="" full-first="Sercan" full-last="Guvenisik"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="465392" id="116461"/>
+           </player>
+           <player>
+             <name first-name="Jean-Marc" last-name="Alexandre" shirt-name="" full-first="Jean-Marc" full-last="Alexandre"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="14"/>
+             <player-code global-id="490214" id="1930"/>
+           </player>
+           <player>
+             <name first-name="Sam" last-name="Garza" shirt-name="" full-first="Sam" full-last="Garza"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="517266" id="116343"/>
+           </player>
+           <player>
+             <name first-name="Ike" last-name="Opara" shirt-name="" full-first="Ike" full-last="Opara"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="55"/>
+             <player-code global-id="517271" id="2103"/>
+           </player>
+           <player>
+             <name first-name="David" last-name="Bingham" shirt-name="" full-first="David" full-last="Bingham"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="588067" id="107721"/>
+           </player>
+         </bench>
+         <bench team="home">
+           <player>
+             <name first-name="John" last-name="Thorrington" shirt-name="" full-first="John" full-last="Thorrington"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="322491" id="1151"/>
+           </player>
+           <player>
+             <name first-name="Jordan" last-name="Harvey" shirt-name="" full-first="Jordan" full-last="Harvey"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="3"/>
+             <player-code global-id="322739" id="1399"/>
+           </player>
+           <player>
+             <name first-name="Eric" last-name="Hassli" shirt-name="" full-first="Eric" full-last="Hassli"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="29"/>
+             <player-code global-id="347420" id="107737"/>
+           </player>
+           <player>
+             <name first-name="Davide" last-name="Chiumiento" shirt-name="" full-first="Davide" full-last="Chiumiento"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="372384" id="107741"/>
+           </player>
+           <player>
+             <name first-name="Brad" last-name="Knighton" shirt-name="" full-first="Brad" full-last="Knighton"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="379133" id="1538"/>
+           </player>
+           <player>
+             <name first-name="Michael" last-name="Nanchoff" shirt-name="" full-first="Michael" full-last="Nanchoff"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="13"/>
+             <player-code global-id="585648" id="103414"/>
+           </player>
+           <player>
+             <name first-name="Carlyle" last-name="Mitchell" shirt-name="" full-first="Carlyle" full-last="Mitchell"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="617900" id="107836"/>
+           </player>
+         </bench>
+         <attendance attendance=""/>
+         <referee id="494894" name="Chris Penso"/>
+         <referee-assistant id="275577" assistant="Chris Strickland"/>
+         <referee-assistant id="322799" assistant="Colin Arblaster"/>
+         <fourth-official id="386890" official="Paul Ward"/>
+         <weather temperature="" description=""/>
+      </ifb-boxscore>
+    </soccer-ifb-boxscores>
+  </sports-boxscores>
+</sports-statistics>

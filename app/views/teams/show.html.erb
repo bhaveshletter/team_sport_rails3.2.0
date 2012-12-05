@@ -1,0 +1,38 @@
+<h1> Team Detail </h1>
+<b>Team Type: </b><%= @team.type_team %> <br />
+<b>Location: </b><%= @team.location %> <br />
+<b>Name: </b><%= @team.name %> <br />
+<b>Alias: </b><%= @team.alias %> <br />
+<b>Display Name: </b><%= @team.display_name %> <br />
+<b>Primary Color: </b><%= @team.primary_color %> <br />
+<b>Shorts Color: </b><%= @team.shorts_color %> <br />
+<b>Wins: </b><%= @team.wins %> <br />
+<b>Ties: </b><%= @team.ties %> <br />
+<b>Losses: </b><%= @team.losses %> <br />
+<b>Pct: </b><%= @team.pct %> <br />
+<b>Linescore Score: </b><%= @team.linescore_score %> <br />
+<b>Linescore Shots: </b><%= @team.linescore_shots %> <br />
+<b>Half: </b><%= @team.half_half %> <br />
+<b>Half Score: </b><%= @team.half_score %> <br />
+<b>Half Shots: </b><%= @team.half_shots %> <br />
+<b>Formation: </b><%= @team.formation %> <br />
+
+<h1> Players' list </h1>
+<table>
+
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Show</th>
+  </tr>
+
+  <% @team_players.each do |t_player| %>
+    <tr>
+      <td><%= t_player.first_name %></td>
+      <td><%= t_player.last_name %></td>
+      <td><%= link_to 'Json', team_player_path(@team.id, t_player, :format => 'json') %></td>
+      <td><%= link_to 'Show', team_player_path(@team.id, t_player) %></td>
+    </tr>
+  <% end %>
+
+</table>
